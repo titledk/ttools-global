@@ -1,0 +1,11 @@
+Projectname: "ttools-global"
+Menu:
+  Heading1:
+    Title: Heading 1
+    Item1:
+      Title: Infrastructure
+      Command: "lib/go-and-execute.sh MYPATH MYSCRIPT"
+    Item2:
+      Title: Execute script
+      Command: "path/to/script/to/execute"
+

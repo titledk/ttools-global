@@ -1,0 +1,3 @@
+[submodule "ttools/core"]
+	path = ttools/core
+	url = https://github.com/titledk/ttools-core.git
