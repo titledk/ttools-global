@@ -1,15 +1,16 @@
 # ttools-global
 
-Barebone repository to use the tools menu globally by typing `tt` into your terminal.
+Barebone repository to use the ttools menu globally by typing `tt` into your terminal.
 
 ## Installation
 
 Clone this repo, and run the installer:
 
 ```sh
-git clone https://github.com/titledk/ttools-global.git
+git clone https://github.com/titledk/ttools-global.git;
 cd ttools-global;
-./install/install.sh
+git submodule update --init;
+./install/install.sh;
 ```
 
 This creates a default config for you that you can fill in with the scripts
